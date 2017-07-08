@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace sisVentasCRPOS\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

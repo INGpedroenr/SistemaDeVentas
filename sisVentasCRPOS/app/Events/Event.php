@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace sisVentasCRPOS\Events;
 
 abstract class Event
 {
